@@ -1,0 +1,15 @@
+[theme]
+# The primary color (This sets the blue for buttons and headers)
+primaryColor = "#1E3A8A"
+
+# The background color of the main area (Light Grey/White)
+backgroundColor = "#F0F2F6"
+
+# The background color of the sidebar/secondary areas
+secondaryBackgroundColor = "#FFFFFF"
+
+# The color of the text
+textColor = "#262730"
+
+# Font family
+font = "monospace"
