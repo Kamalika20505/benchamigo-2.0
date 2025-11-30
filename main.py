@@ -14,7 +14,7 @@ if 'page' not in st.session_state:
 
 def navigate_to(page_name):
     st.session_state.page = page_name
-    st.rerun() # <--- THIS FIXES THE DOUBLE CLICK ISSUE
+    st.rerun() 
 
 # --- PAGE 1: LANDING PAGE ---
 def show_landing_page():
@@ -320,4 +320,5 @@ elif st.session_state.page == 'converter': show_converter_page()
 elif st.session_state.page == 'aliquot': show_aliquot_page()
 elif st.session_state.page == 'buffer': show_buffer_page()
 elif st.session_state.page == 'percent': show_percent_page()
+
 
