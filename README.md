@@ -33,7 +33,7 @@ BenchAmigo currently includes 9 modules:
 Clone the repository:
 
 ```bash
-https://github.com/Kamalika20505/benchamigo-2.0/tree/main
+https://github.com/Kamalika20505/benchamigo-2.0
 cd benchamigo
 ```
 
