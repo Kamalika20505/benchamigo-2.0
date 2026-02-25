@@ -1,4 +1,3 @@
-# benchamigo-2.0
 # 🧪 BenchAmigo 2.0 – Laboratory Calculation Assistant
 
 BenchAmigo is a web-based laboratory calculator built using **Python and Streamlit** to simplify routine wet-lab calculations and reduce manual errors in experimental workflows.
