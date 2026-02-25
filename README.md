@@ -1,24 +1,43 @@
-# 🧪 BenchAmigo 2.0 – Laboratory Calculation Assistant
+# 🧪 BenchAmigo 2.0  
+### A Streamlit-Based Laboratory Workflow Assistant
 
-BenchAmigo is a web-based laboratory calculator built using **Python and Streamlit** to simplify routine wet-lab calculations and reduce manual errors in experimental workflows.
+🔗 **Live App:** https://mainpy-9nxrg4xmmlgykejmt9nblj.streamlit.app/
 
-It combines commonly used lab calculations into one clean interface for students and researchers.
+BenchAmigo is a web-based laboratory calculation and utility tool designed to streamline routine wet-lab computations and reduce manual errors in experimental workflows.
 
+Built using Python and Streamlit, it integrates multiple commonly used lab calculations into a single structured interface.
 
-## 🚀 Features
+---
+
+## 🚀 Key Features
 
 BenchAmigo currently includes 9 modules:
 
-- Serial dilution calculator  
-- C1V1 dilution calculator  
-- RPM ↔ RCF converter  
-- Concentration conversions  
-- Buffer preparation helper  
-- Unit conversion tools  
-- Density-based calculations  
-- Volume & solution calculations  
-- General lab math utilities  
+- Serial Dilution Calculator  
+- C1V1 Dilution Calculator  
+- RPM ↔ RCF Converter  
+- Concentration & Unit Conversions  
+- Buffer Preparation Helper  
+- Density-Based Calculations  
+- Volume Calculations  
+- General Lab Math Utilities  
 
+Designed for biotechnology students, early researchers, and wet-lab professionals.
+
+---
+
+## 📷 Interface Preview
+
+### 🏠 Home Interface
+![Home](screenshots/home.png)
+
+### 🧮 Example Module
+![Module 1](screenshots/module1.png)
+
+### 📊 Calculation Output
+![Module 2](screenshots/module2.png)
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -27,14 +46,15 @@ BenchAmigo currently includes 9 modules:
 - Pandas  
 - NumPy  
 
+---
 
 ## ▶️ Run Locally
 
 Clone the repository:
 
 ```bash
-https://github.com/Kamalika20505/benchamigo-2.0
-cd benchamigo
+git clone https://github.com/Kamalika20505/benchamigo-2.0.git
+cd benchamigo-2.0
 ```
 
 Install dependencies:
@@ -43,7 +63,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Run the application:
+Run the app:
 
 ```bash
 streamlit run app.py
@@ -51,16 +71,21 @@ streamlit run app.py
 
 ---
 
-## 🌐 Live App
+## 🎯 Project Motivation
 
-https://mainpy-9nxrg4xmmlgykejmt9nblj.streamlit.app/ 
+During wet-lab work, repetitive manual calculations (dilutions, RPM conversions, concentration adjustments) increased the risk of minor computational errors.
+
+BenchAmigo was developed to centralize these calculations into a structured digital tool, improving workflow efficiency and reliability.
 
 ---
 
-## 🎯 Why I built this?
+## 🔮 Future Improvements
 
-During wet-lab work, I often had to repeatedly calculate dilutions, conversions, and RPM values manually.  
-BenchAmigo was built to bring these calculations into one structured tool to reduce errors and save time.
+- User authentication  
+- Saved calculation history  
+- Additional biochemistry modules  
+- Enhanced UI/UX customization  
+- Mobile optimization  
 
 ---
 
@@ -68,4 +93,5 @@ BenchAmigo was built to bring these calculations into one structured tool to red
 
 Kamalika Parthiban  
 B.Tech Biotechnology  
-Open to collaboration and feedback.
+Open to collaboration and research-oriented opportunities.
+
