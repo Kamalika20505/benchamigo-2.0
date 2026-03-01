@@ -26,18 +26,6 @@ Designed for biotechnology students, early researchers, and wet-lab professional
 
 ---
 
-## 📷 Interface Preview
-
-### 🏠 Home Interface
-![Home](screenshots/home.png)
-
-### 🧮 Example Module
-![Module 1](screenshots/module1.png)
-
-### 📊 Calculation Output
-![Module 2](screenshots/module2.png)
-
----
 
 ## 🛠️ Tech Stack
 
